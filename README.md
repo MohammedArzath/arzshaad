@@ -20,6 +20,6 @@ Data visualization is a crucial aspect of data analysis, allowing us to transfor
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/jupyter.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>
 
 ### Let's Connect
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arzshaad/)  [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/arzshaad)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arzshaad/)  [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/arzshaad/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammed-arzath&theme=dark&show_icons=true)
