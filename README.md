@@ -14,7 +14,7 @@
 
 ## 🛠 Tech Stack & Tools
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sql.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/power-bi.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tableau-software.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pandas.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/numpy.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/matplotlib.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sql.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/power-bi.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tableau-software.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pandas.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/numpy.png" /> 
 
 ---
 
