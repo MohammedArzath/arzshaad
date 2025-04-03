@@ -2,7 +2,7 @@
 
 ### Data Analyst | Aspiring Machine Learning Engineer
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://media2.giphy.com/media/M9kgjEsLG6LMbYC9dl/200.gif?cid=790b7611gj2mvrri5gvk39qt05qlio6p5qs8i4i5bhyqt58u&rid=200.gif&ct=g">
 
 🔬 Passionate about **Data Analysis, Machine Learning, and Data Visualization**  
 🔄 Skilled in **SQL, Microsoft Excel, Tableau, Power BI, and Statistical Analysis**  
