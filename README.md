@@ -5,17 +5,17 @@
 <img align="right" width="370" height="290" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔬 Passionate about **Data Analysis, Machine Learning, and Data Visualization**  
-- 🔄 Skilled in **SQL, Microsoft Excel, Tableau, Power BI, and Statistical Analysis**  
+- ♻️ Skilled in **SQL, Microsoft Excel, Tableau, Power BI, and Statistical Analysis**  
 - 📚 Currently expanding expertise in **Machine Learning, Data Science, and Visualization**  
 - 🌐 Fluent in **Tamil & English**  
 - 🌟 Eager to contribute and grow in data-driven roles  
 - 📊 Experienced in **ETL (Extract, Transform, Load) processes**  
-- 🛠 Proficient in **Data Cleaning and Preprocessing**  
-- 📈 Strong knowledge of **Predictive Modeling & Statistical Analysis**
+- 🛠️ Proficient in **Data Cleaning and Preprocessing**  
+- 📈 Strong knowledge of **Predictive Modeling & Statistical Analysis**  
 
+---
 
-
-## 🛠 Tech Stack & Tools
+## 🤖 Tech Stack & Tools
 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sql.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/power-bi.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tableau-software.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pandas.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/numpy.png" />
 
@@ -38,13 +38,12 @@ Data visualization is a key component of data analysis, transforming complex dat
 ---
 
 ## 💻 Workspace Setup  
-![ThinkPad](https://img.shields.io/badge/Lenovo-ThinkPad-0076D6?style=for-the-badge&logo=lenovo&logoColor=white) ![AMD Ryzen 5](https://img.shields.io/badge/AMD-Ryzen_5-ED1C24?style=for-the-badge&logo=amd&logoColor=white)  
+![Lenovo IdeaPad 3](https://img.shields.io/badge/Lenovo-IdeaPad_3-0076D6?style=for-the-badge&logo=lenovo&logoColor=white) ![AMD Ryzen 5](https://img.shields.io/badge/AMD-Ryzen_5-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![NVIDIA RTX 2050](https://img.shields.io/badge/NVIDIA-RTX_2050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)  
 
 ---
 
-## 🔗 Let's Connect
+## 📞 Let's Connect
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohammed-arzath/)[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/mohammed-arzath)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohammed-arzath/) [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/mohammed-arzath)
 
 ---
-
